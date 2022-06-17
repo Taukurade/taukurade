@@ -1,6 +1,6 @@
 <h1 align='center'>Hai :3</h1>
 
-<details>
+<details open='open'>
 <summary><h3 align='center'>About me ❤️</h3></summary>
 
 I am a 18 y.o. self-taught python developer from russia.
