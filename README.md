@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there :3</h1>
 
-<a align='center'>![my github stats](https://github-readme-stats.vercel.app/api?username=taukurade&show_icons=true&theme=dracula)</a>
+<span align='center'>123</span>
 
 
 <details>
