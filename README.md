@@ -3,7 +3,9 @@
 <details open='open'>
 <summary><h3 align='center'>About me ❤️</h3></summary>
 
-I am a 18 y.o. self-taught python developer from russia.
+🖥️ I am a 18 y.o. self-taught python developer from russia. Learning IT started with python 4 years ago, during this time I managed to gain a lot of experience both in the language itself and in third-party tools and libraries.
+
+  
 </details>
 <p align='center'>
 <img src='https://github-readme-stats.vercel.app/api?username=taukurade&show_icons=true&theme=dracula'>
