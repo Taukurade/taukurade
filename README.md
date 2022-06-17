@@ -1,6 +1,8 @@
 <h1 align='center'>Hi there :3</h1>
 
-<span align='center'>123</span>
+<p align='center'>
+<img src='https://github-readme-stats.vercel.app/api?username=taukurade&show_icons=true&theme=dracula'>
+</a>
 
 
 <details>
