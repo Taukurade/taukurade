@@ -2,9 +2,9 @@
 
 <details>
 <summary><h3 align='center'>About me ❤️</h3></summary>
-</details>
-I am a 18 y.o. self-taught python developer from russia.
 
+I am a 18 y.o. self-taught python developer from russia.
+</details>
 <p align='center'>
 <img src='https://github-readme-stats.vercel.app/api?username=taukurade&show_icons=true&theme=dracula'>
 <img src='./miku.gif'>
